@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/llForwardUserRow"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/txvAddressTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:background="#ffffff"
+        android:gravity="center_vertical"
+        android:minHeight="30dp"
+        android:paddingLeft="10dp"
+        android:text="Address :"
+        android:textColor="#3B4F63"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/txvAddressValue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ffffff"
+        android:gravity="center_vertical"
+        android:minHeight="30dp"
+        android:paddingLeft="10dp"
+        android:text="Address :"
+        android:textColor="#3B4F63"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/txvKisokExecutiveTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ffffff"
+        android:gravity="center_vertical"
+        android:minHeight="30dp"
+        android:paddingLeft="10dp"
+        android:text="Kiosk Executive :"
+        android:textColor="#3B4F63"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/txvKisokExecutiveValue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ffffff"
+        android:gravity="center_vertical"
+        android:minHeight="30dp"
+        android:paddingLeft="10dp"
+        android:text="Address :"
+        android:textColor="#3B4F63"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/txvContactTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ffffff"
+        android:gravity="center_vertical"
+        android:minHeight="30dp"
+        android:paddingLeft="10dp"
+        android:text="Contact :"
+        android:textColor="#3B4F63"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/txvContactValue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ffffff"
+        android:gravity="center_vertical"
+        android:minHeight="30dp"
+        android:paddingLeft="10dp"
+        android:text="Address :"
+        android:textColor="#3B4F63"
+        android:textSize="18sp" />
+
+
+</LinearLayout>

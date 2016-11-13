@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/llForwardUserRow"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+
+
+        <TextView
+            android:id="@+id/txvMenuName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:minHeight="50dp"
+            android:background="#ffffff"
+            android:gravity="center_vertical"
+            android:paddingLeft="10dp"
+            android:text="gfdsgdf"
+            android:textColor="@color/colorPrimary"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+
+
+</LinearLayout>

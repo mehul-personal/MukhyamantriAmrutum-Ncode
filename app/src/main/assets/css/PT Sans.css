@@ -1,0 +1,7 @@
+/*import google fonts*/
+@import url(http://fonts.googleapis.com/css?family=PT+Sans);
+
+body,p,h1,h2,h3,h4,h5,h6,h1 a,h2 a,h3 a,h4 a,h5 a,h6 a h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover,h6 a:hover h1 a:visited,h2 a:visited,h3 a:visited,h4 a:visited,h5 a:visited,h6 a:visited,.art-postheader,.art-postheader a,.art-postheader a:link,.art-postheader a:visited,.art-postheader a:hover,.art-blockheader .t,.art-vmenublockheader .t,.art-logo-text,.art-logo-text a,h1.art-logo-name,h1.art-logo-name a,h1.art-logo-name a:link,h1.art-logo-name a:visited,h1.art-logo-name a:hover,.read-on-wrapper .read-on,input,select,textarea,select,.art-page-footer,.art-page-footer a,.art-page-footer a:link,.art-page-footer a:visited,.art-page-footer a:hover,table.moduletable th,legend,.ol-textfont,.ol-captionfont,table.contentpaneopen h4,div.module_menu h3, span.dropcap,span.dropcap-blue,span.dropcap-red,span.dropcap-green,span.dropcap-purple,span.dropcap-orange,span.dropcap-brown,span.dropcap-grey{
+	font-family: "PT Sans",Tahoma,Arial,Helvetica,Sans-Serif;
+
+  }
